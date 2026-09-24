@@ -1,8 +1,3 @@
-Hey, I'm Shater,
+Product designer at @costgraph. I design the system, then write the React it turns into. Maker of Yöte, Luotain and KernUI.
 
-Product designer turned design engineer. Based in Nigeria. Building things that look clean and work properly.
-
-I care about systems more than screens. Typography, spacing, and interaction states over decoration. If it's not consistent, it's not done.
-
-Currently building CostGraph.ai, an AI-powered cloud cost optimization platform and Luotain, a link tracking and QR code tool.
-
+I call myself a systemic native: I design products as systems of reusable parts, then build them. I work across Figma, React, Next.js and Framer.
